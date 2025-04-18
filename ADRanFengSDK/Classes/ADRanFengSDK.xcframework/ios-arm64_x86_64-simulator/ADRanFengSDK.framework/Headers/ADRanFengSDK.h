@@ -8,10 +8,6 @@
 
 #import <Foundation/Foundation.h>
 #import <ADRanFengSDK/ADRanFengSplashAd.h>
-#import <ADRanFengSDK/ADRanFengBannerAdView.h>
-#import <ADRanFengSDK/ADRanFengInterstitialAd.h>
-#import <ADRanFengSDK/ADRanFengNativeExpressAd.h>
-#import <ADRanFengSDK/ADRanFengExpressViewRegisterProtocol.h>
 #import <ADRanFengSDK/ADRanFengCIDModel.h>
 
 typedef enum ADRanFengKitLogLevel:NSUInteger ADRanFengKitLogLevel;
