@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ADRanFengSDKPub'
-  s.version          = '2.2.9.2.1'
+  s.version          = '2.2.9.3.1'
   s.summary          = 'A short description of ADRanFengSDK.'
 
-  s.description      = "ADRanFengSDK for baidu YunPanP"
+  s.description      = "ADRanFengSDK for baidu YunPan"
 
   s.homepage         = 'https://github.com/RanfengPub/ADRanfeng-sdk-YunPanPub.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
